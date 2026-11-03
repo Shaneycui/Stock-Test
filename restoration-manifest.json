@@ -1,0 +1,49 @@
+{
+  "restored_on": "2026-11-04",
+  "timezone": "UTC+8",
+  "documents": [
+    {
+      "path": "archive/restored-originals/中长线投资方法提炼-v0.1.md",
+      "bytes": 41609,
+      "characters": 16146,
+      "sha256": "82b3a31ac5029502d8fa400a281aa79056bb464411fe7a3af405998a5c8d7ae5",
+      "source": "first_file_write_body_in_conversation",
+      "verification": "matches_historical_bytes_and_sha256",
+      "historical_sha256": "82b3a31ac5029502d8fa400a281aa79056bb464411fe7a3af405998a5c8d7ae5"
+    },
+    {
+      "path": "archive/restored-originals/中长线投资方法提炼-v0.2.md",
+      "bytes": 70802,
+      "characters": 27507,
+      "sha256": "43f8f3b1e705c940714e0a6b77183586a1791985d14e34b64c2cdb2e8a0710e0",
+      "source": "first_file_write_body_in_conversation",
+      "verification": "matches_historical_bytes_and_sha256",
+      "historical_sha256": "43f8f3b1e705c940714e0a6b77183586a1791985d14e34b64c2cdb2e8a0710e0"
+    },
+    {
+      "path": "archive/restored-originals/宏观补充00-股债汇商品与对冲的底层关系.md",
+      "bytes": 17489,
+      "characters": 6741,
+      "sha256": "5840ac1b9ae9286553d43446850ccfdaa6c43d6f8ce077f6b1233c999d197774",
+      "source": "first_file_write_body_in_conversation",
+      "verification": "conversation_text_restored_and_character_count_matches",
+      "historical_sha256": null,
+      "historical_characters": 6741
+    },
+    {
+      "path": "archive/restored-originals/宏观补充01-美国经济的运行与全球传导.md",
+      "bytes": 25204,
+      "characters": 10452,
+      "sha256": "b2fff71b6fef8cb71fa0b13b02ea53590a268ee2c3ba23233cde68ecff1f3acd",
+      "source": "first_file_write_body_in_conversation",
+      "verification": "conversation_text_restored_and_character_count_matches",
+      "historical_sha256": null,
+      "historical_characters": 10452
+    }
+  ],
+  "previous_reconstructions_preserved": true,
+  "unrecovered": [
+    "Uploaded PDF/Word originals",
+    "Extracted source text and images"
+  ]
+}

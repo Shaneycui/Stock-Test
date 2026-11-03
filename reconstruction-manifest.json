@@ -1,0 +1,51 @@
+{
+  "reconstructed_on": "2026-11-04",
+  "timezone": "UTC+8",
+  "source": "conversation_record",
+  "is_original_archive": false,
+  "originals": [
+    {
+      "name": "中长线投资方法提炼-v0.1.md",
+      "historical_bytes": 41609,
+      "historical_sha256": "82b3a31ac5029502d8fa400a281aa79056bb464411fe7a3af405998a5c8d7ae5",
+      "status": "original_unavailable_not_verified"
+    },
+    {
+      "name": "中长线投资方法提炼-v0.2.md",
+      "historical_bytes": 70802,
+      "historical_sha256": "43f8f3b1e705c940714e0a6b77183586a1791985d14e34b64c2cdb2e8a0710e0",
+      "status": "original_unavailable_not_verified"
+    }
+  ],
+  "missing_original_materials": [
+    "Original frozen Markdown files",
+    "Original extracted source text and images",
+    "Uploaded PDF and Word files (not included)"
+  ],
+  "reconstructed_documents": [
+    {
+      "path": "reports/01-investment-framework-v0.1-reconstructed.md",
+      "bytes": 16784,
+      "sha256": "b704122b3ad3852516e17b70ede2b29820e16ce03f30cf1b428132bb62aa08a6",
+      "status": "reconstructed_not_byte_identical_claim"
+    },
+    {
+      "path": "reports/02-investment-framework-v0.2-reconstructed.md",
+      "bytes": 16656,
+      "sha256": "99b5b3836a582a02f05e2145584b5390954e76cd57f9f9a6d2ba63e661a4e083",
+      "status": "reconstructed_not_byte_identical_claim"
+    },
+    {
+      "path": "reports/03-macro-00-assets-and-hedging-reconstructed.md",
+      "bytes": 11484,
+      "sha256": "0bba9fede9ca13126fc6f03f89ad56ac13023ef3db5e7a3e0bfc5d834e9c9932",
+      "status": "reconstructed_not_byte_identical_claim"
+    },
+    {
+      "path": "reports/04-macro-01-us-economy-reconstructed.md",
+      "bytes": 15969,
+      "sha256": "262ffea9af396f5395df7b7ae1ab7b6ca375f4f7618bf78b95e79f7be6b4d5a3",
+      "status": "reconstructed_not_byte_identical_claim"
+    }
+  ]
+}
